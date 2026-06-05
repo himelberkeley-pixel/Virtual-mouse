@@ -1,2 +1,2 @@
 # Virtual-mouse
-A virtual mouse which can control by hand and it's as like as real mouse.
+Control your computer cursor using hand gestures through a webcam with real-time computer vision and Python.
